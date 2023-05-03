@@ -1,1 +1,9 @@
-#資料夾內容為成果作品(程式碼)
+###資料夾內容為成果作品(程式碼)
+##DoubleBeepers
+#Karal會讓原本的Beeper數量變成兩倍
+##MoveToTheEnd
+#Karal走到終點
+##PotholeFilling
+#Karal用Beepers填滿坑洞
+##StepUp
+#Karal放置Beeper於(4,2)後移動至(5,2)
